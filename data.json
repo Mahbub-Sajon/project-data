@@ -5,7 +5,23 @@
       "live": "https://agro-tools-ltd.web.app/",
       "client": "https://github.com/Mahbub-Sajon/agro-tools-ltd-client",
       "server": "https://github.com/Mahbub-Sajon/agro-tools-ltd-server",
-      "description": "",
+      "description": "Admin and normal user authentication and authorization are implemented along with the google login system.
+Users can order, check, pay and cancel their order. 
+Admins can confirm payment and make another user an admin.  
+Json web token security system is used. 
+",
+        "technology": "React app
+Firebase Authentication
+Firebase hook
+React Router
+Tailwind CSS
+Daisy UI
+Email-Password
+Google verification
+Reset password system
+Mongodb
+React Forms
+React hooks",
       "img1": "https://i.ibb.co/WB364VJ/agro-tools.png",
       "img2": "https://i.ibb.co/Pjd60KC/agro-tools-2.png",
       "img3": "https://i.ibb.co/Vm7brVf/agro-tools-3.png"
@@ -16,7 +32,18 @@
       "live": "https://plant-planet-def76.web.app/",
       "client": "https://github.com/Mahbub-Sajon/plant-planet-client",
       "server": "https://github.com/Mahbub-Sajon/plant-planet-server",
-      "description": "",
+      "description": "This is an inventory management system! You can stocking, delivering, updating, deleting and adding your products! Several users can use this site to monitor their product. This site is completely safe for users cause others users won't be able to see your activity. You need sign up or sing in to do such activity.",
+        "technology": "React app
+Firebase Authentication
+Firebase hook
+React Router
+Tailwind CSS
+Email-Password
+Google verification
+Reset password system
+Mongodb
+React Forms
+React hooks",
       "img1": "https://i.ibb.co/4YXPwRH/plant-planet.png",
       "img2": "https://i.ibb.co/tmbpqGC/plant-planet-2.png",
       "img3": "https://i.ibb.co/WkCyGSb/plant-planet-3.png"
@@ -26,7 +53,7 @@
       "name": "Agro-Advisor",
       "live": "https://agro-advisor.web.app/",
       "client": "https://github.com/Mahbub-Sajon/agro-advisor",
-      "server": "",
+      "technology": "",
       "description": "",
       "img1": "https://i.ibb.co/B25sx9w/agro-advisor.png",
       "img2": "https://i.ibb.co/jvd43jt/agro-advisor-2.png",
